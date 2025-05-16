@@ -8,4 +8,4 @@ The application offers flexibility in data input — users can either paste phon
 
 Upon completion, Phonelytics generates a structured Excel report consisting only of the successful results, making it a powerful and time-saving tool for call centers, researchers, and professionals dealing with large-scale number validation. This tool is ideal for verifying leads or enriching client databases with publicly available data.
 
-Phonelytics is distributed under the MIT License. It is intended for legal and ethical use only — users must comply with data privacy laws applicable in their region. For feature requests, issues, or collaboration inquiries, please contact [your.email@example.com].
+Phonelytics is distributed under the MIT License. It is intended for legal and ethical use only — users must comply with data privacy laws applicable in their region. For feature requests, issues, or collaboration inquiries, please contact jerryparker0710@gmail.com.
